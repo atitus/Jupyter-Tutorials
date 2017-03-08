@@ -7,4 +7,4 @@ Some of the tutorials require you to install the following packages:
 - pyserial for communication with an Arduino.
 - [plotly](https://plot.ly/) for interactive graphs and streaming.
 
-These tutorials have been influenced by Ruth Chabay, Bruce Sherwood, Doug Blank, and Steve Spicklemire. Credit is generally given in the tutorial that was influenced by their work.
+These tutorials have been influenced by Ruth Chabay, Bruce Sherwood, Doug Blank, and Steve Spicklemire. Credit is generally given in the tutorial that was influenced by their work. In some cases, code snippets were gleaned from Plotly, matplotlib, and other sites.
