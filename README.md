@@ -20,7 +20,8 @@ These tutorials have been influenced by Ruth Chabay, Bruce Sherwood, Doug Blank,
 
 - [Markdown](01%20Markdown.ipynb)
 - [VPython](02%20VPython.ipynb)
-- [Graphing Data with Matplotlib](03%20Graphing%20Data%20with%20Matplotlib.ipynb)
+- [Graphing Data with Matplotlib](03.1%20Graphing%20Data%20with%20Matplotlib.ipynb)
+- [Animating a Time-Dependent Function with Matplotlib.ipynb](03.2%20Animating%20a%20Time-Dependent%20Function%20with%20Matplotlib.ipynb)
 - [Reading and Graphing Data from a File](04%20Reading%20and%20Graphing%20Data%20from%20a%20File.ipynb)
 - [Graphing Data with Plotly](05.1%20Graphing%20Data%20with%20Plotly.ipynb)
 - [Creating a 3D Surface Plot with Plotly](05.2%20Creating%20a%203D%20Surface%20Plot%20with%20Plotly.ipynb)
@@ -30,3 +31,6 @@ These tutorials have been influenced by Ruth Chabay, Bruce Sherwood, Doug Blank,
 - [Embedding Video](08%20Embedding%20Video.ipynb)
 - [Complex Numbers](09%20Complex%20Numbers.ipynb)
 - [Sharing Your Notebook](10%20Sharing%20Your%20Notebook.ipynb)
+- [Giving a Presentation in Jupyter](11%20Giving%20a%20Presentation%20in%20Jupyter.ipynb)
+- [Solving Ordinary Differential Equations in Jupyter](12-Solving%20ODEs%20in%20Jupyter.ipynb)
+- [Installing and Using R in Jupyter](13-Installing%20and%20Using%20R%20in%20Jupyter.ipynb)
